@@ -10,6 +10,5 @@ premisas deben ser
   3. Cada jugador tendrá un cartón que contenga del 1 al 90 números repartidos en tres filas. En la 1a columna pueden haber
      números del 1 al 9, en la segunda del 10 al 19, en la tercera del 20 al 29, en la cuarta del 30 al 39 y así sucesivamente
      hasta llegar a la última columna
-    * Cómo posible ampliación, hacer que por partida no se generen cartones iguales entre los distintos jugadores.
   3. Los jugadores **al cantar linea** se les premiará con el tipo de premio _**LINE**_ y cuándo canten bingo se les premiará
      con el premio _**BINGO**_.
